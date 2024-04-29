@@ -1,8 +1,5 @@
-# Cat & Light Project
+# web search application
 
 ## Observations
 
-- Switch status changes
-- Bulb goes On and Off
-- Cat become Visible and Invisible
-- Switch (button) background color Changes
+The web app that allows user to search for information form a given data file and capable of effiency retrieving relavent data based on user quires.
